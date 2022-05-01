@@ -5,7 +5,7 @@
 Die Schilder in [svg/*](svgs/) sind modifizierte Schilder welche die Übergabe
 am Standort Uetliberg verbessern sollen.
 
-Alle Schilder sind hier: [output/All.pdf](output/All.pdf).
+Alle Schilder sind hier: [All.pdf](All.pdf).
 
 
 # PDF Konvertierung

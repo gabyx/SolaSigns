@@ -15,9 +15,10 @@ DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 cd "$DIR"
 
 echo "Convert all SVGs to PDF..."
-find "." -name "svg/*.svg" -print0 |
-    xargs -0 -n 1 -I {} inkscape -T -C -o output/{}.pdf {}
+cd svgs
+find "." -name "*.svg" -print0 |
+    xargs -0 -n 1 -I {} inkscape -T -C -o "$DIR/output/{}.pdf" {}
 
+cd "$DIR/output"
 echo "Merge all PDFs together"
-find "." -name "output/*.pdf" \
-    xargs -0 convert {} "All.pdf"
+pdfunite $(find "." -name "*.pdf" | sort | xargs -I {} echo {}) "$DIR/All.pdf"
