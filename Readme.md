@@ -2,8 +2,10 @@
 
 ## Übergabe Startnummern-Schilder für Uetliberg
 
-Die Schilder in [svg/*](svgs/) sind modifizierte Schilder welche die Übergabe
+Die Schilder in [svg/*](svgss/) sind modifizierte Schilder welche die Übergabe
 am Standort Uetliberg verbessern sollen.
+
+SVGs in Inkscape oeffnene!
 
 Alle Schilder sind hier: [All.pdf](All.pdf).
 
@@ -15,10 +17,10 @@ Alle Schilder sind hier: [All.pdf](All.pdf).
 ```
 
 
-![1-200](svgs/Sola-0001.svg)
-![200-400](svgs/Sola-0200.svg)
-![400-600](svgs/Sola-0400.svg)
-![600-800](svgs/Sola-0600.svg)
-![800-1000](svgs/Sola-0800.svg)
-![1000](svgs/Sola-1000.svg)
+![1-200](output/Sola-0001.svg.pdf)
+![200-400](output/Sola-0200.svg.pdf)
+![400-600](output/Sola-0400.svg.pdf)
+![600-800](output/Sola-0600.svg.pdf)
+![800-1000](output/Sola-0800.svg.pdf)
+![1000](output/Sola-1000.svg.pdf)
 
