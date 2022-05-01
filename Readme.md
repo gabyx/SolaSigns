@@ -1,6 +1,6 @@
-# ASVZ Sola 2022
+# SOLA Signs 2022
 
-## Übergabe Startnummern-Schilder für Uetliberg
+## Übergabe Startnummern-Schilder für Uetliberg 2022
 
 Die Schilder in [svg/*](svgss/) sind modifizierte Schilder welche die Übergabe
 am Standort Uetliberg verbessern sollen.
