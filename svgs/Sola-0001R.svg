@@ -306,17 +306,17 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.22075164,-174.68558,-47.010711)"
        id="text1924"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:10.3444356;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:10.3444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="580.55609"
        y="0"><tspan
          x="1048.0602"
          y="816.54705"
-         id="tspan1012"><tspan
+         id="tspan1013"><tspan
            style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium';text-align:end;text-anchor:end"
-           id="tspan1010">1</tspan></tspan></text>
+           id="tspan1011">1</tspan></tspan></text>
     <g
        id="g131081"
-       transform="translate(-29.102752,14.078701)">
+       transform="translate(15.868127,14.078701)">
       <path
          style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
          d="M 88.930001,157.9577 H 123.41702"
@@ -335,16 +335,16 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.20348706,101.18769,98.059755)"
+       transform="matrix(0.26458333,0,0,0.20348706,146.15857,98.059755)"
        id="text1924-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:304.076px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-34.2085px;white-space:pre;shape-inside:url(#rect1926-4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14028"
        x="353.22266"
        y="0"><tspan
          x="113.17773"
          y="461.87147"
-         id="tspan1016"><tspan
+         id="tspan1017"><tspan
            style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium'"
-           id="tspan1014">200</tspan></tspan></text>
+           id="tspan1015">200</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,6.4710821,0)"
