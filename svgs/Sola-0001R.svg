@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="Sola1R.svg"
+   sodipodi:docname="Sola-0001R.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,9 +32,9 @@
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.2810466"
-     inkscape:cx="738.84902"
-     inkscape:cy="638.54041"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="732.99442"
+     inkscape:cy="416.84667"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -43,7 +43,8 @@
      inkscape:current-layer="layer1"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:lockguides="false">
     <sodipodi:guide
        position="94.361431,205"
        orientation="0,1"
@@ -68,7 +69,8 @@
     <sodipodi:guide
        position="0,0"
        orientation="-793.70079,0"
-       id="guide82909" />
+       id="guide82909"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="5,148.92635"
        orientation="-1,0"
@@ -302,19 +304,19 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.22075164,-174.09913,-46.94236)"
+       transform="matrix(0.26458333,0,0,0.22075164,-174.68558,-47.010711)"
        id="text1924"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#000000;stroke-width:10.3444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:10.3444356;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="580.55609"
        y="0"><tspan
-         x="1071.4167"
+         x="1048.0602"
          y="816.54705"
-         id="tspan1028"><tspan
-           style="text-align:end;text-anchor:end"
-           id="tspan1026">1</tspan></tspan></text>
+         id="tspan1012"><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium';text-align:end;text-anchor:end"
+           id="tspan1010">1</tspan></tspan></text>
     <g
        id="g131081"
-       transform="translate(1.9213904,14.421644)">
+       transform="translate(-29.102752,14.078701)">
       <path
          style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
          d="M 88.930001,157.9577 H 123.41702"
@@ -333,17 +335,19 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.20348706,131.03372,90.463374)"
+       transform="matrix(0.26458333,0,0,0.20348706,101.18769,98.059755)"
        id="text1924-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:380.095px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-17.1043px;white-space:pre;shape-inside:url(#rect1926-4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:304.076px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-34.2085px;white-space:pre;shape-inside:url(#rect1926-4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14028"
        x="353.22266"
        y="0"><tspan
          x="113.17773"
-         y="525.19531"
-         id="tspan1030">200</tspan></text>
+         y="461.87147"
+         id="tspan1016"><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium'"
+           id="tspan1014">200</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(-0.26458333,0,0,0.26458333,291.81889,0)"
+       transform="matrix(0.26458333,0,0,0.26458333,6.4710821,0)"
        id="text36152"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36154);fill:#000000;fill-opacity:1;stroke:none" />
   </g>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="Sola1000R.svg"
+   sodipodi:docname="Sola-1000R.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,15 +32,15 @@
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.32026164"
-     inkscape:cx="-207.64273"
-     inkscape:cy="552.67312"
+     inkscape:zoom="0.64052328"
+     inkscape:cx="534.71905"
+     inkscape:cy="551.1119"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g131081"
+     inkscape:current-layer="layer1"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-smooth-nodes="true">
@@ -286,8 +286,8 @@
     <rect
        x="113.17693"
        y="208.57565"
-       width="1430.3201"
-       height="901.43333"
+       width="1879.4758"
+       height="941.40782"
        id="rect1926-3" />
   </defs>
   <g
@@ -296,10 +296,10 @@
      id="layer1">
     <g
        id="g131081"
-       transform="translate(3.8426718,11.330557)">
+       transform="translate(5.2683192,10.272223)">
       <path
          style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
-         d="m 176.76462,157.60716 h 34.48702"
+         d="m 176.23545,157.60716 h 34.48702"
          id="path16499"
          sodipodi:nodetypes="cc" />
       <path
@@ -309,24 +309,23 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 250.57464,133.62908 v 47.71594"
+         d="m 250.01961,133.40164 v 47.71594"
          id="path66174-2"
          sodipodi:nodetypes="cc" />
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.22060427,0,0,0.22075164,-19.632358,-53.762333)"
+       transform="matrix(0.22060427,0,0,0.22075164,-20.952759,-53.860736)"
        id="text1924"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926-3);fill:#0066cc;fill-opacity:1;stroke:#000000;stroke-width:11.3287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:663.423px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-59.9478px;white-space:pre;shape-inside:url(#rect1926-3);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:11.3287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="580.55609"
        y="0"><tspan
          x="113.17773"
-         y="816.54705"
-         id="tspan1006"><tspan
-           style="letter-spacing:-47.9583px"
-           id="tspan1002">1</tspan><tspan
-           dx="-27.958313"
-           style="text-align:end;text-anchor:end"
-           id="tspan1004">000</tspan></tspan></text>
+         y="761.20751"
+         id="tspan1061"><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium'"
+           id="tspan1057">1</tspan><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium';text-align:end;text-anchor:end"
+           id="tspan1059">000</tspan></tspan></text>
   </g>
 </svg>

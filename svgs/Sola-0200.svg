@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="Sola200.svg"
+   sodipodi:docname="Sola-0200.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,9 +32,9 @@
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.2810466"
-     inkscape:cx="373.52272"
-     inkscape:cy="615.90267"
+     inkscape:zoom="0.45291837"
+     inkscape:cx="835.69143"
+     inkscape:cy="684.45005"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -43,38 +43,40 @@
      inkscape:current-layer="layer1"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:lockguides="true">
     <sodipodi:guide
        position="94.361431,205"
        orientation="0,1"
        id="guide82903"
        inkscape:label=""
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="292,148.47781"
        orientation="-1,0"
        id="guide82905"
        inkscape:label=""
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="81.884543,5"
        orientation="0,1"
        id="guide82907"
        inkscape:label=""
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,0"
        orientation="-793.70079,0"
-       id="guide82909" />
+       id="guide82909"
+       inkscape:locked="true" />
     <sodipodi:guide
        position="5,148.92635"
        orientation="-1,0"
        id="guide82911"
        inkscape:label=""
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
@@ -292,8 +294,8 @@
     <rect
        x="113.17693"
        y="208.57565"
-       width="1093.9089"
-       height="310.86978"
+       width="1089.796"
+       height="394.89239"
        id="rect1926-4" />
   </defs>
   <g
@@ -304,14 +306,14 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.22075164,-78.442367,-49.059028)"
        id="text1924"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-20px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#000000;stroke-width:10.3444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:729.857px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-76.635px;white-space:pre;shape-inside:url(#rect1926);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:10.3444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="580.55609"
        y="0"><tspan
-         x="418.05478"
+         x="307.25787"
          y="816.54705"
-         id="tspan1028"><tspan
-           style="text-align:end;text-anchor:end"
-           id="tspan1026">200</tspan></tspan></text>
+         id="tspan1030"><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium';text-align:end;text-anchor:end"
+           id="tspan1028">200</tspan></tspan></text>
     <g
        id="g131081"
        transform="matrix(-1,0,0,1,292.54333,14.421644)">
@@ -322,12 +324,12 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 40.198775,157.5321 99.707065,0.30549"
+         d="m 52.189897,157.5321 87.715943,0.30549"
          id="path66174"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 40.001107,133.62908 v 47.71594"
+         d="m 52.159951,133.62908 v 47.71594"
          id="path66174-2"
          sodipodi:nodetypes="cc" />
     </g>
@@ -335,12 +337,14 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.20348706,-26.286589,100.84766)"
        id="text1924-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:304.076px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-17.1043px;white-space:pre;shape-inside:url(#rect1926-4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:304.076px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-45.6113px;white-space:pre;shape-inside:url(#rect1926-4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14028"
        x="353.22266"
        y="0"><tspan
          x="113.17773"
          y="461.87147"
-         id="tspan1030">400</tspan></text>
+         id="tspan1034"><tspan
+           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium'"
+           id="tspan1032">400</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
