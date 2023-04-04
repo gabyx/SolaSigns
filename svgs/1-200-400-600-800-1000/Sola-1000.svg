@@ -7,7 +7,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
    sodipodi:docname="Sola-1000.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -33,17 +33,19 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.64052328"
-     inkscape:cx="534.71905"
+     inkscape:cx="533.93844"
      inkscape:cy="551.1119"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g131081"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="24.818144,200"
        orientation="0,1"
@@ -68,7 +70,8 @@
     <sodipodi:guide
        position="0,0"
        orientation="-793.70079,0"
-       id="guide82909" />
+       id="guide82909"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="10,110.29703"
        orientation="-1,0"
@@ -299,7 +302,7 @@
        transform="matrix(-1,0,0,1,291.73168,10.272223)">
       <path
          style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
-         d="m 176.23545,157.60716 h 34.48702"
+         d="m 172.33626,157.60716 h 34.48702"
          id="path16499"
          sodipodi:nodetypes="cc" />
       <path
@@ -309,23 +312,21 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 250.01961,133.40164 v 47.71594"
+         d="m 246.12042,133.40164 v 47.71594"
          id="path66174-2"
          sodipodi:nodetypes="cc" />
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.22060427,0,0,0.22075164,-20.952759,-53.860736)"
+       transform="matrix(0.22060427,0,0,0.22075164,-17.61553,-56.029032)"
        id="text1924"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:663.423px;line-height:1;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';letter-spacing:-59.9478px;white-space:pre;shape-inside:url(#rect1926-3);fill:#0066cc;fill-opacity:1;stroke:#0066cc;stroke-width:11.3287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="580.55609"
        y="0"><tspan
          x="113.17773"
          y="761.20751"
-         id="tspan1006"><tspan
+         id="tspan259"><tspan
            style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium'"
-           id="tspan1002">1</tspan><tspan
-           style="font-weight:500;font-family:'Geogrotesque Cyr';-inkscape-font-specification:'Geogrotesque Cyr Medium';text-align:end;text-anchor:end"
-           id="tspan1004">000</tspan></tspan></text>
+           id="tspan257">1050</tspan></tspan></text>
   </g>
 </svg>

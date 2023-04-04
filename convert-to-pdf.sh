@@ -12,30 +12,37 @@ set -o pipefail
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 
-END_NUMBER=1025
+# Change this end number.
+REPLACE_NUMBER=1025
+WITH_NEW_NUMBER=1050
 
 cd "$DIR"
 
+function convert() {
+    local out="$1"
+    local f="$2"
+
+    cd "$DIR/svgs/$out"
+    find "." -name "*.svg" -print0 |
+        xargs -0 -I {} sed -i -E "s@>$REPLACE_NUMBER<@>$WITH_NEW_NUMBER<@g" {}
+    find "." -name "*.svg" -print0 |
+        xargs -0 -I {} inkscape -T -C -o "$DIR/output/$out/{}.pdf" "$DIR/svgs/$out/{}"
+
+    cd "$DIR/output/$out"
+    echo "Merge all PDFs together"
+    pdfunite $(find "." -name "*.pdf" | sort | xargs -I {} echo {}) "$DIR/$f"
+}
+
 echo "Convert all SVGs to PDF..."
-out="1-200-400-600-800-1000"
-cd "$DIR/svgs/$out"
-find "." -name "*.svg" -print0 |
-    xargs -0 -I {} sed -i -E "s@>1000@>$END_NUMBER@"
-find "." -name "*.svg" -print0 |
-    xargs -0 -I {} inkscape -T -C -o "$DIR/output/$out/{}.pdf" "$DIR/svgs/$out/{}"
+convert "1-200-400-600-800-1000" "All-5-Ranges.pdf"
 
-cd "$DIR/output/$out"
-echo "Merge all PDFs together"
-pdfunite $(find "." -name "*.pdf" | sort | xargs -I {} echo {}) "$DIR/All-5-Ranges.pdf"
+cp "$DIR/svgs/1-200-400-600-800-1000/Sola-1000.svg" "$DIR/svgs/1-500-1000/Sola-1000.svg"
+cp "$DIR/svgs/1-200-400-600-800-1000/Sola-1000R.svg" "$DIR/svgs/1-500-1000/Sola-1000R.svg"
+convert "1-500-1000" "All-2-Ranges.pdf"
 
-out="1-500-1000"
-cd "$DIR/svgs/$out"
-find "." -name "*.svg" -print0 |
-    xargs -0 -I {} inkscape -T -C -o "$DIR/output/$out/{}.pdf" "$DIR/svgs/$out/{}"
 
-cd "$DIR/output/$out"
-echo "Merge all PDFs together"
-pdfunite $(find "." -name "*.pdf" | sort | xargs -I {} echo {}) "$DIR/All-2-Ranges.pdf"
+rm -f "$DIR/svgs/1-500-1000/Sola-1000.svg"
+rm -f "$DIR/svgs/1-500-1000/Sola-1000R.svg"
 
 echo "Merge all PDFs together"
 pdfunite "$DIR/All-5-Ranges.pdf" "$DIR/All-2-Ranges.pdf" "$DIR/All.pdf"
