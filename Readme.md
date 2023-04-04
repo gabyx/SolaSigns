@@ -2,6 +2,9 @@
 <h1>SOLA Signs 2022/2023 <a href="https://www.asvz.ch/event/412-sola-stafette">ASVZ</a>
 </h1>
 
+<br>
+<br>
+
 ## Startnummern-Schilder
 
 Die Schilder in [svg/\*](svgss/) sind modifizierte Schilder welche die Übergabe
