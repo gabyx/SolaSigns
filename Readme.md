@@ -2,10 +2,10 @@
 <h1>SOLA Signs 2022/2023 <a href="https://www.asvz.ch/event/412-sola-stafette">ASVZ</a>
 </h1>
 
-## Übergabe Startnummern-Schilder für Uetliberg 2022/2023
+## Startnummern-Schilder
 
 Die Schilder in [svg/\*](svgss/) sind modifizierte Schilder welche die Übergabe
-am Standort Uetliberg verbessern sollen.
+am verbessern sollen.
 
 - Installiere die [Geogrotesque font hier](https://en.fontsloader.com/types/geogrotesque).
 - Installiere [Inkscape](https://inkscape.org).
