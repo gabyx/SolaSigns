@@ -1,4 +1,6 @@
-# SOLA Signs 2022 [ASVZ](https://www.asvz.ch/event/412-sola-stafette)
+<img src="logo.png" style="margin-left: 20pt" align="right" width="300px">
+<h1>SOLA Signs 2022/2023 <a href="https://www.asvz.ch/event/412-sola-stafette">ASVZ</a>
+</h1>
 
 ## Übergabe Startnummern-Schilder für Uetliberg 2022/2023
 
